@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/sajia-h/product-preview-card-component.git]
-- Live Site URL: [https://sajia-h.github.io/product-preview-card-component/]
+- Solution URL: [https://github.com/sajia-h/qr-code-component-main.git]
+- Live Site URL: [https://sajia-h.github.io/qr-code-component-main/]
 
 ## My process
 
